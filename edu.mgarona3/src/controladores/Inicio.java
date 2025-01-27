@@ -63,12 +63,7 @@ public class Inicio {
 				
 				break;
 			}
-		/*
-			case 5: {
-				aplicacion.mostrarElementos();
-				break;
-			}
-		*/
+		
 			default:
 				System.out.println("La opcion escogida no existe");
 			}
