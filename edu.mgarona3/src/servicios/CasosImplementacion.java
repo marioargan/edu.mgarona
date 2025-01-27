@@ -102,9 +102,5 @@ public class CasosImplementacion implements CasosInterfaz {
 		
 		
 	}
-	/*@Override
-	public void mostrarElementos() {
-		System.out.println(Inicio.elementos);
-	}
-	*/
+	
 }
