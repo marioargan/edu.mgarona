@@ -10,6 +10,6 @@ public interface CasosInterfaz {
 
 	void cerrarMenu();
 	
-	//void mostrarElementos();
+	
 
 }
